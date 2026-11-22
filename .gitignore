@@ -1,0 +1,22 @@
+.obsidian/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.venv/
+venv/
+dist/
+build/
+
+# Local / sensitive data
+data/
+*.parquet
+*.feather
+*.sqlite
+*.db
+
+# Generated large outputs
+outputs/
+results/
